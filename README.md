@@ -10,4 +10,4 @@ Required Modules:
   -numpy
   -math
   
-!(/home/tyler/Pictures/IMAGE16.png)
+![Example Screen Capture](https://github.com/TylerReimer13/RobotSimulator/blob/master/IMAGE16.png)
